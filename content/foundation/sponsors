@@ -1,14 +1,15 @@
-Title: Thanks
+Title: Our Sponsors | Apache Software Foundation
 
 license: https://www.apache.org/licenses/LICENSE-2.0
 
-# {{title}}
+# Our Sponsors
 
 The Apache Software Foundation could not exist without the continued
 generous support from the community. We would like to take this opportunity
-to thank our Sponsors. If you are interested in sponsoring the ASF, please
+to thank our sponsors. If you are interested in sponsoring the ASF, please
 read our [sponsorship page](/foundation/sponsorship.html).
 
+## Foundation Sponsors
 
 <link rel="stylesheet" href="thanks.css">
    <h1 style="text-align: center;">Platinum Sponsors:</h1> <!-- 400x179 --> <!-- Platinum images should be exact size for CSS -->
@@ -96,7 +97,7 @@ read our [sponsorship page](/foundation/sponsorship.html).
 
 ## Targeted Sponsors
 
-ASF Targeted Sponsors provide the Foundation with contributions for specific activities or programs, such as donating cloud services, funding a project hackathon, providing legal services, offering a community member benefit, underwriting expenses for ApacheCon, or something entirely new. It's the Apache way of recognizing the sponsors that we rely on every day outside of and often in addition to funding our general operations.
+ASF Targeted Sponsors provide the Foundation with contributions for specific activities or programs, such as donating cloud services, funding a project hackathon, providing legal services, offering a community member benefit, underwriting expenses for our flagship event, or something entirely new. It's the Apache way of recognizing the sponsors that we rely on every day outside of and often in addition to funding our general operations.
 
 <!-- Targeted Sponsors -->
    <h1 style="text-align: center;">Targeted Platinum Sponsors:</h1> <!-- 400x179 -->   <!-- Platinum images should be exact size for CSS -->
@@ -181,28 +182,4 @@ ASF Targeted Sponsors provide the Foundation with contributions for specific act
     }
 </script>
 <noscript>Sorry, your browser settings do not support JavaScript!</noscript>
-
-## Individual Donations
-
-The Apache Software Foundation receives many smaller donations from
-individuals.  More details are available on our [contribution page](/foundation/contributing.html).
-
-We would like to thank all of our individual donors for their
-support of our work, and for their willingness to contribute with
-only this as recognition for their generosity.
-
-
-## Mirrors
-
-Until the third quarter of 2021, The ASF used a system of <a href="https://apache.org/history/mirror-history.html" target="_blank">download mirrors</a> to make Apache product releases conveniently available for free download around the world. The mirror system depended on generous contributions of resources and effort by organizations of many kinds (universities, non-profits, corporations and others), and The ASF could not have functioned as it has done without their support.
-
-The ASF now uses a global content distribution network (CDN) to respond quickly and accurately to download requests from any part of the globe, at any time of day.
-
-
-<div align=center>
-  <a href="/foundation/contributing.html" title="Support Apache">
-    <img src="/images/SupportApache-small.png" style="height: 150px; width: 150px; margin-top: 5px; margin-bottom: 5px;">
-  <a>
-  <br />&nbsp;
-</div>
  
