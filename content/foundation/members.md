@@ -1,20 +1,14 @@
-Title: Members
+Title: ASF Members | Apache Software Foundation
 
 license: https://www.apache.org/licenses/LICENSE-2.0
 
-# {{title}}
+# Committed to Open Source and the ASF
 
-[Membership in The Apache Software Foundation](/foundation/governance/members) is a privilege and is by
-invitation only. Existing members propose and [vote on](/foundation/governance/meetings#membervoting)
-candidates for membership. Since the Foundation is
-a meritocracy, meaning that contributions and skills are the factors used
-to judge worthiness, we expect candidates to have proven themselves by
-contributing to one or more of the Foundation's projects.
+ASF Members are those who have proven their commitment to the ASF by contributing to one or more of the Foundation’s projects. We thank them for their ongoing contributions to the Foundation.
 
-The details of the process by which someone may become a member of The
-Apache Software Foundation are in [Section 4.1](bylaws.html#4.1)
-of the Foundation's [bylaws](bylaws.html).  A more general description of 
-[how the ASF is governed](/governance/) is available.
+Our Members are similar to stockholders–they elect new Members and may vote for Directors. Membership in The Apache Software Foundation is a privilege and is by invitation only. The [Governance](https://apache.org/foundation/governance/) page provides details on Membership and the nomination process.
+
+///////  NEED TO MAKE UPDATES BELOW THIS LINE ///////
 
 Members may choose to move to [emeritus](bylaws.html#4.2) status by sending an email to
 secretary@apache.org, attaching a signed copy of the
