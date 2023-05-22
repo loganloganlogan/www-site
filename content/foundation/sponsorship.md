@@ -186,7 +186,7 @@ donations to be part of the Sponsorship program (and thus obtain the
 benefits of the program), coordinate the donation with the 
 Fundraising team. We keep all information in strictest confidence.
 
-*How do sponsorship renewals happen*
+*How do sponsorship renewals happen?*
 
 Your sponsorship runs for one year after the date of receipt of payment.
 During this period, we display your logo on our [Sponsors](/foundation/thanks.html)
