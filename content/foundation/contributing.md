@@ -1,5 +1,7 @@
-Title: Donating to The Apache Software Foundation
+Title: Individual Supporters | Apache Software Foundation
 license: https://www.apache.org/licenses/LICENSE-2.0
+
+# Support Apache: Individual Giving Programs
 
 <div class="container">
   <h1 class="text-center">Support Apache: Individual Giving and Sponsorship Programs</h1>
