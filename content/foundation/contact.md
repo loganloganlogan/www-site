@@ -14,7 +14,7 @@ All technical questions and questions about a specific ASF project should be add
 
 ## Security Contacts
 
-Visit the (https://www.apache.org/security/)[ASF Security page] to learn how to report a security vulnerability. 
+Visit the [ASF Security page](https://www.apache.org/security/) to learn how to report a security vulnerability. 
 
 ## Foundation Directory
 
