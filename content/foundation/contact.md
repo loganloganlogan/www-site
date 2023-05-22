@@ -21,20 +21,14 @@ Visit the [ASF Security page](https://www.apache.org/security/) to learn how to 
 
 | Inquiry     | Contact |
 | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
-
-
-| Hosting a project with ASF | [https://incubator.apache.org/](Apache Incubator) |
-| Press and analyst inquiries | [https://apache.org/press/](Newsroom) <br> press@apache.org  |
-| Sponsorship or donation inquiries | [https://apache.org/foundation/sponsorship.html ](Foundation Sponsorship) <br> [/foundation/individual-supporters](Individual Supporters) <br> fundraising@apache.org |
-| Trademarks or service marks including <br> all Apache project names and logos | [https://apache.org/foundation/marks/contact](Trademark Contacts) | 
-| Legal and Licensing | [https://apache.org/foundation/license-faq.html](Licensing FAQ)
-[https://apache.org/legal/](Legal Affairs Committee) | 
-| Website | Issues with a specific Apache project's website should go to that project's dev@ mailing list. <br> For issues with the foundation top-level websites such as apache.org: webmaster@apache.org |
-| DMCA Designated Agent | 
-[https://apache.org/legal/dmca.html]( DMCA Agent) |
-| For questions that are not covered above | apache@apache.org |
+| Hosting a project with ASF      | [Apache Incubator](https://incubator.apache.org/)        |
+| Press and analyst inquiries   | [Newsroom](https://apache.org/press/) <br> press@apache.org         |
+| Sponsorship or donation inquiries     | [Foundation Sponsorship](https://apache.org/foundation/sponsorship.html) <br> [Individual Supporters](/foundation/individual-supporters) <br> fundraising@apache.org       |
+| Trademarks or service marks including <br> all Apache project names and logos   | [Trademark Contacts](https://apache.org/foundation/marks/contact)      |
+| Legal and Licensing     | [Licensing FAQ](https://apache.org/foundation/license-faq.html) <br>  (https://apache.org/legal/)[Legal Affairs Committee]      |
+| Website   | Issues with a specific Apache project's website should go to that project's dev@ mailing list. <br> For issues with the foundation top-level websites such as apache.org: webmaster@apache.org      |
+| DMCA Designated Agent     | [DMCA Agent](https://apache.org/legal/dmca.html)       |
+| For questions that are not covered above   | apache@apache.org      |
 
 ## Mailing Address
 
