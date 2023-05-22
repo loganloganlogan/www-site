@@ -19,7 +19,7 @@ Contact us at fundraising(at)apache(dot)org to see how your contribution to the 
 
 ## FAQ
 	
-*How will my donation be used?*
+*How will my donation be used?*<br>
 As a US 501(c)(3) not-for-profit charitable organization, the ASF depends on a variety of funding sources to sustain its day-to-day activities. Tax-deductible contributions from corporations, foundations, and private individuals help offset day-to-day operating expenses that include Infrastructure services; Marketing and PR/AR; and Legal, Accounting, and Operational support.
 
 We spend less than 10% of our annual budget on overhead. 75% of the ASF's US $1.5M annual budget supports running our critical infrastructure (mailing lists, code repositories, bug tracking systems, Web servers, continuous integration servers, bandwidth, electricity, cooling, administrative staff, and more) that keeps the Foundation and its projects functioning 24x7x365. The annual cost is less than US $5K per project.
