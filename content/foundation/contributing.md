@@ -26,13 +26,13 @@ We spend less than 10% of our annual budget on overhead. 75% of the ASF's US $1.
 	
 We are proud to highlight the ASF's diverse accomplishments in our <a href="[https://www.guidestar.org/profile/47-0825376](https://apache.org/foundation/reports.html)">Annual Reports</a>. Many of these successes were made possible by your support.
 														       
-*Are Individual Supporter donations tax-deductible?*
+*Are Individual Supporter donations tax-deductible?*<br>
 Yes, the Apache Software Foundation is a 501(c)(3) not-for-profit entity so contributions are tax-deductible in the U.S. As regulations vary, we encourage you to consult a qualified advisor experienced with your local tax law pertaining to donations. 
 
-*What is the ASF’s tax identification number?*
+*What is the ASF’s tax identification number?*<br>
 The ASF's tax identification number is 47-0825376. 
 	
-*Where can I mail a check?*
+*Where can I mail a check?*<br>
 Mail your check or money order payable to:
 
 The Apache Software Foundation
@@ -41,6 +41,6 @@ Wilmington, DE 19801
 
 To receive a tax receipt, include your email address and the name for whom the donation should be credited (your own or the third party if it is a on behalf of someone else).
 
-*I have a question. Who do I contact?*
+*I have a question. Who do I contact?*<br>
 For more information, please contact us at fundraising@apache.org.
  
