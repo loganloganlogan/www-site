@@ -7,7 +7,7 @@ The Apache Software Foundation provides support for the Apache community of open
 
 By sponsoring the ASF you show your support for our mission and help sustain a vibrant organization. Sponsorship also shows your support for open source and gives you the opportunity to "give back" to the community. Finally, since the ASF is a non-profit organization, sponsorship provides attractive tax benefits for organizations based in the U.S.
 
-## Foundation Sponsorship  {#Levels}
+## Foundation Sponsorship 
 
 Foundation Sponsorship is the way that corporations can contribute substantially to the ongoing support of the Foundation. In return, the ASF will officially acknowledge your donation via various methods appropriate to your sponsorship level. We will display your logo and link on the Sponsors page and provide an official sponsor image to place on your website. 
 
