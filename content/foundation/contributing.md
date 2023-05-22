@@ -14,7 +14,7 @@ There are many ways to support the ASF, with giving options for individuals and 
       <div class="col-md-12">
         <h2>Donate Now</h2>
         <p>Giving to Apache is easy! You can donate with a debit or credit card, bank transfer, PayPal, or Google Pay. If you'd like to mail a check, see instructions below. hank you in advance for your generosity!</p>
-        <p><a class="btn btn-default mx-10" href="[Donate Now](https://donate.apache.org/48ff)" role="button">Donate Now</a>
+      <p><a class="btn btn-default mx-10" href="https://donate.apache.org/48ff" role="button">Donate Now</a>
 		</div>
 	  </div>
 	</div>
