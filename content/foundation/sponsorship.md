@@ -150,13 +150,9 @@ In short, sponsors must be:
 - A business located anywhere in the world that would be legal to operate anywhere in the United States and any state of nexus* for the ASF, excluding businesses, persons and jurisdiction limited by law.  This is necessary to avoid legal risks and protect our non-profit status.  
 - Demonstrably committed to open source software and The Foundation’s mission.
 
-Landing pages for sponsor links cannot be advertisements or redirectors and must be “PG Rated” and safe for work environments.  All links should go to a home page or a page with relevant, editorial content about open source software. Any sites with content unsuitable for minors must use a landing page that is completely kid-safe, with appropriate warnings, and that meets US legal requirements such as the FTC’s COPPA requirements.
+Landing pages for sponsor links cannot be advertisements or redirectors and must be “PG Rated” and safe for work environments. All links should go to a home page or a page with relevant, editorial content about open source software. Any sites with content unsuitable for minors must use a landing page that is completely kid-safe, with appropriate warnings, and that meets US legal requirements such as the FTC’s COPPA requirements.
 
 <super>*</super><sub>**Nexus**, also called “sufficient physical presence”, is a legal term that refers to the requirement for companies doing business in a state to collect and pay tax on sales in that state. For example, if you sell goods or services in Los Angeles, you must file and pay California state taxes. Source: https://quickbooks.intuit.com/r/taxes/what-is-nexus-and-how-does-it-affect-your-small-business.
-
-*A note about links* 
-
-Our sponsors demonstrate their commitment to Open Source Software by supporting us in our mission of providing software for the public good. We do this by providing services and support for many like-minded software project communities consisting of individuals who choose to participate in ASF activities. In the past, some sponsors have been primarily interested in the SEO benefits of being listed on the sponsors page. To address this issue, all sponsor thank-you listings include a rel="sponsored" tag as suggested by [popular webmaster policies](https://webmasters.googleblog.com/2019/09/evolving-nofollow-new-ways-to-identify.html).
 
 *Is the Apache Software Foundation a non-profit organization?*  
 
