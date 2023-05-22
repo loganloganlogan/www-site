@@ -24,18 +24,18 @@ Visit the [ASF Security page](https://www.apache.org/security/) to learn how to 
 | Hosting a project with ASF      | [Apache Incubator](https://incubator.apache.org/)        |
 | Press and analyst inquiries   | [Newsroom](https://apache.org/press/) <br> press@apache.org         |
 | Sponsorship or donation inquiries     | [Foundation Sponsorship](https://apache.org/foundation/sponsorship.html) <br> [Individual Supporters](/foundation/individual-supporters) <br> fundraising@apache.org       |
-| Trademarks or service marks including <br> all Apache project names and logos   | [Trademark Contacts](https://apache.org/foundation/marks/contact)      |
-| Legal and Licensing     | [Licensing FAQ](https://apache.org/foundation/license-faq.html) <br>  (https://apache.org/legal/)[Legal Affairs Committee]      |
-| Website   | Issues with a specific Apache project's website should go to that project's dev@ mailing list. <br> For issues with the foundation top-level websites such as apache.org: webmaster@apache.org      |
+| Trademarks or service marks including all Apache project names and logos   | [Trademark Contacts](https://apache.org/foundation/marks/contact)      |
+| Legal and Licensing     | [Licensing FAQ](https://apache.org/foundation/license-faq.html) <br>  [Legal Affairs Committee](https://apache.org/legal/)      |
+| Website   | Issues with a specific Apache project's website should go to that project's dev@ mailing list. For issues with the foundation top-level websites such as apache.org: webmaster@apache.org      |
 | DMCA Designated Agent     | [DMCA Agent](https://apache.org/legal/dmca.html)       |
 | For questions that are not covered above   | apache@apache.org      |
 
 ## Mailing Address
 
-The Apache Software Foundation
-1000 N West Street, Suite 1200
-Wilmington, DE  19801
-U.S.A.
+The Apache Software Foundation<br>
+1000 N West Street, Suite 1200<br>
+Wilmington, DE  19801<br>
+U.S.A.<br>
 
 **Important.** If you are not the [State of Delaware](records/),
 a [sponsor](thanks), or a supplier, it is *extremely* likely that
