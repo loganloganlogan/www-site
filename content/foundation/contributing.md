@@ -36,9 +36,9 @@ The ASF's tax identification number is 47-0825376.
 *Where can I mail a check?*<br>
 Mail your check or money order payable to:
 
-The Apache Software Foundation
-1000 N West Street, Suite 1200
-Wilmington, DE 19801
+The Apache Software Foundation<br>
+1000 N West Street, Suite 1200<br>
+Wilmington, DE 19801<br>
 
 To receive a tax receipt, include your email address and the name for whom the donation should be credited (your own or the third party if it is a on behalf of someone else).
 
