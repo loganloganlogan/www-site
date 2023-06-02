@@ -3,7 +3,7 @@ Title: A Primer on ASF Governance | Apache Software Foundation
 license: https://www.apache.org/licenses/LICENSE-2.0
 
 # A Primer on ASF Governance
-While you may be familiar with the consensus-based, community driven governance known as The Apache Way that Apache projects use, this primer will help you understand how the Apache Software Foundation (ASF) works behind the scenes.
+While you may be familiar with the consensus-based, community driven governance known as the Apache Way that Apache projects use, this primer will help you understand how the Apache Software Foundation (ASF) works behind the scenes.
 
 ## Non-Profit Bylaws 
 As a Delaware, US-based membership corporation and an IRS registered 501(c)(3) non-profit, the ASF is governed by a set of corporate bylaws. The Membership elects a Board of Directors which sets corporate policy and appoints officers; officers set and execute corporate policy; and the Board appoints various Project Management Committees (PMCs) to run Apache software projects.
