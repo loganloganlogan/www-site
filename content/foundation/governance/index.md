@@ -64,6 +64,7 @@ Committers are elected separately for every project; merit within one project is
 As a community-based organization, many other groups of individuals and organizations provide valuable work and services to the ASF and Apache projects, but are not directly part of our corporate governance.
 
 **Contributors**
+
 Contributors are individuals who contribute source code patches, documentation, and help on mailing lists to Apache projects. Contributors do not have a specific governance role, however healthy projects are always on the lookout for productive and helpful contributors whom they can consider nominating as new committers.
 
 **Users**
