@@ -80,6 +80,7 @@ As a non-profit entity, the ASF relies on financial contributions from organizat
 The ASF contracts with vendors to provide specific services such as accounting, non-profit tax filing, legal counsel, or hosting or bandwidth services. Vendors are not otherwise part of our governance structures. Vendor relationships are managed by a volunteer officer whenever possible.
 
 **Contractors / Paid Staff**
+  
 The ASF pays  contractors to keep core infrastructure running, e.g., sysadmins. Normally we rely on volunteers for all of our work both at the technical and project levels, as well as the organizational and board levels. However, maintaining a reliable and secure infrastructure to keep all of our services running requires paid staff. These expenses along with hardware and bandwidth costs make up the largest part of our annual corporate budget. 
 
 Note that the ASF does not pay for software development on any Apache projects; rather, we rely on volunteers for all of our project coding work. The ASF focuses on providing the technical, legal, and community infrastructure for like-minded communities and trust that healthy project communities will build their own software products.
