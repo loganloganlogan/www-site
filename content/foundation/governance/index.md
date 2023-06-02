@@ -68,12 +68,15 @@ As a community-based organization, many other groups of individuals and organiza
 Contributors are individuals who contribute source code patches, documentation, and help on mailing lists to Apache projects. Contributors do not have a specific governance role, however healthy projects are always on the lookout for productive and helpful contributors whom they can consider nominating as new committers.
 
 **Users**
+  
 Users use, and often ask for help about, our software. Many helpful users do not code, but still spend the time to submit bug reports and answer questions on our project's mailing lists.
 
 **Sponsors**
+  
 As a non-profit entity, the ASF relies on financial contributions from organizations and individual supporters to provide infrastructure and services to ASF projects. To ensure project and corporate independence, sponsors are not part of corporate governance at the ASF. Becoming a sponsor does not give an organization or its employees any specific merit within the ASF or its projects.
 
 **Vendors**
+  
 The ASF contracts with vendors to provide specific services such as accounting, non-profit tax filing, legal counsel, or hosting or bandwidth services. Vendors are not otherwise part of our governance structures. Vendor relationships are managed by a volunteer officer whenever possible.
 
 **Contractors / Paid Staff**
