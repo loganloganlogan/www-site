@@ -151,5 +151,5 @@ If you have sent us mail because you think you have traced spam to a system that
 ### Domain ownership lookup/IP address tracing
 - How to: Look up the owner of a domain<small>(such as foo.com)</small>: [http://www.networksolutions.com/cgi-bin/whois/whois](http://www.networksolutions.com/cgi-bin/whois/whois) Whois database (tells you who owns a domain, such as foo.com).
 
-- How to: Look up the owner of an IP address<small>(such as 10.0.35.147):</small>:<br></br> [https://ws.arin.net/whois/](https://ws.arin.net/whois/). ARIN (Registered Internet Numbers) database (tells you who owns an IP address, such as 10.0.35.147, or which other database to query if the address is assigned outside the USA).
+- How to: Look up the owner of an IP address<small>(such as 10.0.35.147): [https://ws.arin.net/whois/](https://ws.arin.net/whois/). ARIN (Registered Internet Numbers) database (tells you who owns an IP address, such as 10.0.35.147, or which other database to query if the address is assigned outside the USA).
 
