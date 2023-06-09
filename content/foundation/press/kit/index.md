@@ -6,14 +6,14 @@ license: https://www.apache.org/licenses/LICENSE-2.0
 The ASF’s brand guidelines and trademark policy ensure consistent use of our brand logo and assets to help people easily identify the Foundation and its work. All uses of ASF trademarks, service marks, and graphic logos must abide by our [Identity Style Guide](/foundation/press/kit/ApacheFoundation_StyleGuide.pdf) and [Trademark Policy](/foundation/marks/).
 
 **ASF Graphics**
-*   [Foundation Logos](#links) - the formal ASF logo
+*   [Foundation Logos](#logo) - the formal ASF logo
 *   [Powered By Apache Logos](#poweredby) - for Apache projects
 *   [Apache Badges](#badges) — pictorial marks of the Apache Feather with taglines
 
 
-## Foundation Logos
+## Foundation Logos {#logo}
 
-### Foundation Logo {#logo}
+### Foundation Logo 
 
 [![Logo](asf_logo_small.png)](asf_logo.png)
 
@@ -23,7 +23,7 @@ The ASF’s brand guidelines and trademark policy ensure consistent use of our b
 
 *   [ASF Logo without URL - EMF](asf_logo.emf)
 
-### Foundation Logo with URL  {#logo-url}
+### Foundation Logo with URL 
 
 [![Logo](asf_logo_url_small.png)](asf_logo_url.png)
 
@@ -33,9 +33,7 @@ The ASF’s brand guidelines and trademark policy ensure consistent use of our b
 
 *   [ASF Logo with URL - EMF](asf_logo_url.emf)
 
-### Wide Foundation Logo  {#wide}
-
-The latest version of the Foundation Logo, including the Feather and URL is
+### Wide Foundation Logo  
 
 [![Logo](asf_logo_wide_small.png)](asf_logo_wide.png)
 
@@ -47,15 +45,13 @@ The latest version of the Foundation Logo, including the Feather and URL is
 
 ### "Established 1999" Foundation Logo
 
-The latest version of the Foundation Logo, including the Feather and "Established 1999" notation is
-
 [![Logo with Established 1999](asf-estd-1999-logo.png)](asf-estd-1999-logo.png)
 
 *   [ASF Logo with Estd. 1999 - SVG](asf-estd-1999-logo.svg)
 
 *   [ASF Logo with Estd. 1999 - PNG](asf-estd-1999-logo.png)
 
-### Feathers  {#links}
+### Feathers  
 
 [![Feather](feather_small.png)](feather.png)
 
@@ -87,7 +83,7 @@ Guidelines for the appropriate use of the “Powered By Apache” logos include:
 
 In addition, official Apache Project pages and documentation on apache.org must utilize the appropriate trademark symbols on the respective Project logo, along with the following footnote: "Apache, Apache [PROJECT NAME], and the Apache [PROJECT NAME] logo are registered trademarks or trademarks of The Apache Software Foundation in the U.S. and/or other countries."
 
-### "Powered By" Logo  {#plain-feather-powered-by-apache-logo}
+### "Powered By" Logo  
 
 ![Powered By Apache](poweredBy/pb-apache.PNG)
 
@@ -97,7 +93,7 @@ In addition, official Apache Project pages and documentation on apache.org must 
 
 [Powered By Apache Logo - EMF](poweredBy/Apache_PoweredBy.emf)
 
-### Project "Powered By" Logos  {#per-project-powered-by-logos}
+### Project "Powered By" Logos 
 
 ![Per-Project Powered By Logo Example][2]
 
@@ -107,7 +103,7 @@ For example, the Powered by Logo for Apache Tomcat can be retrieved from [powere
 
 If you are unable to find the logo you are looking for, try inspecting the [directory listing](poweredBy). If you still can't find what you need please contact the project's mailing list.
 
-### Template for "Powered By" Logos  {#template-for-the-creation-of-powered-by-logos}
+### Template for "Powered By" Logos 
 
 <br />
 <a class="btn btn-primary" role="button" data-toggle="collapse" href="#buildPoweredByBadge" aria-expanded="false" aria-controls="buildPoweredByBadge">Build Your Badge</a>
