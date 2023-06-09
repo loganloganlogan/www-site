@@ -33,7 +33,7 @@ All software produced by the Foundation is available for download, by anyone and
 ## Legal
 
 ### You have a question about Apache trademarks, or you want to know if a use of an Apache trademark is related to the ASF.
-You may read our [formal Trademark Policy](/foundation/marks/) as an introduction. For any questions about the use of Apache marks, including logos and project or product names, or the Apache name or feather, contact the[Brand Management Committee](/foundation/marks/contact) as well as to the relevant [Project Management Committee](//projects.apache.org/).
+You may read our [formal Trademark Policy](/foundation/marks/) as an introduction. For any questions about the use of Apache marks, including logos and project or product names, or the Apache name or feather, contact the [Brand Management Committee](/foundation/marks/contact) as well as to the relevant [Project Management Committee](//projects.apache.org/).
 
 ### You have questions about the Apache license.
    If you have sent mail about a license issue or question, please review the
@@ -149,13 +149,7 @@ If you think that ASF has somehow 'hijacked,' 'taken over,' or otherwise blocked
 If you have sent us mail because you think you have traced spam to a system that displays the 'It Worked!' page, or another page indicating that Apache is running on the system, the same advice applies: it is not our system; they are just using web software we develop and distribute for free. The web software has nothing to do with email or spam, it's just running on the same system. Apache has as much to do with email as Tetris does, and assuming we're responsible in any way for the spam is as reasonable as blaming Microsoft and Microsoft Excel because someone used Netscape to send you a nasty message. We are not and can not be responsible for their activity. Internet databases such as ARIN or Whois will help you find out who actually owns the systems, domains, and/or IP addresses involved.
 
 ### Domain ownership lookup/IP address tracing
-- How to: Look up the owner of a domain<small>(such as foo.com)</small>:
-   [http://www.networksolutions.com/cgi-bin/whois/whois](http://www.networksolutions.com/cgi-bin/whois/whois)
-   Whois database (tells you who owns a domain, such as foo.com).
+- How to: Look up the owner of a domain<small>(such as foo.com)</small>: [http://www.networksolutions.com/cgi-bin/whois/whois](http://www.networksolutions.com/cgi-bin/whois/whois) Whois database (tells you who owns a domain, such as foo.com).
 
-- How to: Look up the owner of an IP address<small>(such as
-      10.0.35.147):</small>:<br></br> [https://ws.arin.net/whois/](https://ws.arin.net/whois/).
-      ARIN (Registered Internet Numbers) database (tells you who owns an IP
-      address, such as 10.0.35.147, or which other database to query if the
-      address is assigned outside the USA)
+- How to: Look up the owner of an IP address<small>(such as 10.0.35.147):</small>:<br></br> [https://ws.arin.net/whois/](https://ws.arin.net/whois/). ARIN (Registered Internet Numbers) database (tells you who owns an IP address, such as 10.0.35.147, or which other database to query if the address is assigned outside the USA).
 
