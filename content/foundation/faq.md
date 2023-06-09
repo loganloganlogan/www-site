@@ -81,7 +81,7 @@ As an officer of the corporation, PMC Chairs act on behalf of the corporation pr
 
 Officers and members are further indemnified in accordance with our bylaws (meaning we also take care of their legal expenses if they are sued due to their role's actions). In essence, PMC chairs must be officers because the board can only delegate things to employees or officers. It is impossible to delegate authority to someone who has no authority.
 
-### What is the legal liability for committers, PMC members, ASF members, officers and directors?  {#legal_liability}
+### What is the legal liability for committers, PMC members, ASF members, officers and directors?
 
 The ASF provides protection from legal liability for Members, Officers, and Directors as noted in section 12.1 of the Bylaws. No legal liability is offered to committers, PMC members, and anyone else who contributes to the ASF and its projects.
 
@@ -89,67 +89,7 @@ The ASF provides protection from legal liability for Members, Officers, and Dire
 
 All software developed within the Foundation belongs to the ASF, and therefore the members. The members own the code and the direction of it and the Foundation. Committers work on their project's code; good committers become ASF members and thus share the ownership of the software and the Foundation's decision-making.
 
-### Members
-
-
-
-
-
-
-
-
-
-## What is the Apache Software Foundation?  {#what}
-
-The Apache Software Foundation (ASF) is a non-profit 501(c)(3) corporation,
-incorporated in Delaware, USA, in June of 1999. The ASF is a natural
-outgrowth of The Apache Group, which
-formed in 1995 to develop the Apache HTTP Server.
-
-A [board of directors](board/), elected by the [ASF
-membership](members.html) on an annual basis according to the corporation's
-[bylaws](bylaws.html), oversees [management of the Foundation](how-it-works.html#structure). The board appoints a set of officers to manage the
-day-to-day operations of the Foundation and to oversee the ASF projects. A Project Management Committee (PMC), a self-selected team of active contributors, manages each project following The Apache Way and whatever additional guidelines for
-collaborative development are best suited to that project.
-
-## Why was the Apache Software Foundation created?  {#why}
-
-The Foundation was formed primarily to
-
-1. provide a foundation for open, collaborative software development
-projects by supplying hardware, communication, and business infrastructure
-
-1. create an independent legal entity to which companies and individuals
-can donate resources and be assured that those resources will be used for
-the public benefit
-
-1. provide a means for individual volunteers to be sheltered from legal
-suits directed at the Foundation's projects
-
-1. protect the 'Apache' brand, as applied to its software products, from
-being abused by other organizations
-
-## Why was the name 'Apache' chosen?  {#name}
-
-The name 'Apache' was chosen from respect for the various Native American
-nations collectively referred to as
-<a href="http://en.wikipedia.org/wiki/Apache" target="_blank">Apache</a>, well-known for their
-superior skills in warfare strategy and their inexhaustible endurance. It
-also makes a cute pun on "a patchy web server" -- a server made from a
-series of patches -- but this was not its origin. The group of developers
-who released this new software soon started to call themselves the "Apache
-Group".
-
-## Does being a Foundation bring additional burdens on how Apache operates?  {#foundation-burdens}
-
-Along with being a corporation come some mandated processes and structures.
-
-The people who have the responsibility of watching over the Foundation's
-activities, and keeping them on track and out of trouble, are the ASF's
-Board of Directors. The board consists of nine individuals elected by the
-Foundation's membership and invested by the membership with the authority
-to run the Foundation and make tactical and strategic decisions concerning
-it. This is necessary and essential work which makes the work of creating, releasing and supporting software products possible.
+## Members
 
 ### How do I become a member of the ASF?
 The Apache Software Foundation is a meritocracy, which means that, to become a member, you must first be actively contributing to one or more of the Foundation's collaborative projects. New candidates for membership are nominated by an existing member and then put to vote; a majority of the existing membership must approve a candidate in order for the candidate to be accepted.
@@ -160,7 +100,7 @@ No, the membership of the ASF is composed of individuals, not companies. This do
 
 ## Technical
 
-## You unexpectedly see an Apache HTTP Server installation page when you visit a website. 
+### You unexpectedly see an Apache HTTP Server installation page when you visit a website. 
 
 If you have sent us mail because you saw a page saying 'It Worked!' (or
    something similar indicating that the Apache HTTP server has been installed) on your screen
